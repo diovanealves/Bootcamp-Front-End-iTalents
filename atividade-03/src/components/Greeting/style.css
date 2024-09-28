@@ -1,0 +1,15 @@
+.greeting {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  gap: 5px;
+  padding: 20px;
+}
+
+.p {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
